@@ -173,7 +173,7 @@ const CONFIG = {
           link: "https://open.spotify.com",
         },
         {
-          name: "osu profile",
+          name: "osu! profile",
           link: "https://osu.ppy.sh/users/9935655",
         },
       ],
