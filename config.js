@@ -166,7 +166,7 @@ const CONFIG = {
         },
         {
           name: "anilist",
-          link: "https://mw.lonelil.ru",
+          link: "https://anilist.co",
         },
         {
           name: "spotify",
