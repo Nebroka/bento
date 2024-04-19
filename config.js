@@ -165,8 +165,8 @@ const CONFIG = {
           link: "https://chess.com",
         },
         {
-          name: "movies",
-          link: "https://mw.lonelil.ru",
+          name: "anilist",
+          link: "https://anilist.co",
         },
         {
           name: "spotify",
