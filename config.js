@@ -166,15 +166,15 @@ const CONFIG = {
         },
         {
           name: "anilist",
-          link: "https://anilist.co",
+          link: "https://mw.lonelil.ru",
         },
         {
           name: "spotify",
           link: "https://open.spotify.com",
         },
         {
-          name: "amazon",
-          link: "https://amazon.de",
+          name: "osu profile",
+          link: "https://osu.ppy.sh/users/9935655",
         },
       ],
     },
